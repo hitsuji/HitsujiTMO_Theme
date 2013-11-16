@@ -1,4 +1,4 @@
-HitsujiTMO_Theme
+HitsujiTMO Desktop Theme
 ================
 
-HitsujiTMO Desktop Theme
+* Openbox 3 Theme
